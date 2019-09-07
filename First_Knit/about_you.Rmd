@@ -1,7 +1,7 @@
 ---
 title: "First Knit"
-author: "Your Name"
-date: "Date, 2019"
+author: Carlos Pelayo
+date: August 30th
 output: 
   html_document:
     number_sections: true
@@ -15,31 +15,31 @@ output:
 
 Here are just a few questions so I can get to know you and so you can get practice submitting an assignment in Canvas.  For each question, insert your answer underneath. Make sure each answer is at the minimum a complete sentence with correctly spelled words and correct puncuation. Half the points in this assignment depend on your picture and name being correct!!  Be sure to put your photo in the AAA_Owner_Info folder and call it My_photo.jpg after first renaming the current one to Koala.jpg . 
 
-##Where are you now?  
+## Where are you now?
 What row are you in, front,middle or back?  Do you usually choose a similiar row in other classes? What is the computer number where you are sitting?  How on a scale of 1 to 10 (1=low, 10=high) How you feel about periodic seat re-assignment, say how and why. Teams, have you ever worked on one in a class setting?  
 
 
-###my answer     
+### my answer     
   
    
 I am sitting in the first row. During undergraduate studies I would sit in the back, but now since my eye sight is going, im trying to  sit as close as possible.   
 
 
-##Others and You?   
+## Others and You?   
 What name do you prefer to be called by your classmates and instructor, if your buddys call you something but you want me to call you something else - what would that be? 
 
 
-###my answer     
+### my answer     
   
    I prefer being named by my first name, so Carlos.
  
 
 
 
-##Aspirations?   
+## Aspirations?   
 What do you want to achieve in life?  What college subject do you think would be of the greatest interest to you? What degree or certificate are you trying to achieve?
 
-###my answer     
+### my answer     
   
    From this class I want to learn how to utilize machine learning to be a better production engineer. I am pursuing my MBA. In life I want to be a good father, husband, and engineer. 
  
@@ -47,10 +47,10 @@ What do you want to achieve in life?  What college subject do you think would be
 
 
 
-##Past adventures?  
+## Past adventures?  
 Have you ever gone to foreign countries, if so which ones, if not Where might you go in the future?  Have you ever been in the military, if so which branch, if not which branch would you choose if you got drafted, and why?
 
-###my answer     
+### my answer     
   
  I have gone to Mexico and Italy. I've gone to Mexico to visit family and Italy for my honeymoon. I have never been part of the military.   
   
@@ -58,11 +58,11 @@ Have you ever gone to foreign countries, if so which ones, if not Where might yo
 
 
 
-##Why are you taking Math 115?  
+## Why are you taking MGMT6770?  
 What grade do you need to attain in stats to not upset your future plans, What is your plan?
  
 
-###my answer     
+### my answer     
   
 I would like to attain an A.   
  
@@ -71,16 +71,16 @@ I would like to attain an A.
 
 
 
-##Homework Help and Getting around?  
+## Homework Help and Getting around?  
 On a scale of 1 to 10, where 1 is a total dummy (doesn't know a mouse from a keyboard) and 10 is a complete geek (knows computer stuff in and out) How do you rate yourself?  Do you have a computer you can use at home? If so, what kind is it (windows, Apple, Linux)? Do you have internet access at home?  
 How do you get to class? Are there issues that limit when you can be at the college?Where and when did you attend high school?  Do you currently have a job?
 
-###my answer   
+### my answer   
 I would grade myself at a 4 or 5. I have not done too much programming in the past. I have a computer at home, it is a windows, and i do have internet access at home. I drive to class with no issues that limit when I can be in class. I attended Golden Valley High School in Bakerfield California. I do have a job, I work as a Facilities Engineer for an oil company in town.
   
-## critiquie of the AI in Business Article
-   
-  
+## Critiquie of the AI in Business Article
+
+I found the article to be very interesting with regards to implementing Aritificial Intelligence within an exisiting company. It was very insightful how the author went through what sort of changes to the organization need to be made in order to make the implementation of AI succesful, such as modifying the sturcture of the organization to a more cross functional type of organization. The steps that needed to be taken once AI was implemented in order to promote engagement from employees.
 
 
 
